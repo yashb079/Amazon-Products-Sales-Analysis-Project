@@ -45,3 +45,5 @@ Dashboard Screenshot.png → Preview of the interactive dashboard
 🎯 Purpose
 
 This project demonstrates the use of Power BI for e-commerce analytics, showcasing how business users can track sales growth, analyze category performance, and measure product success in real time.
+
+Screenshot Link :- https://github.com/yashb079/Amazon-Products-Sales-Analysis-Project/blob/main/Dashboard%20Screenshot.png
