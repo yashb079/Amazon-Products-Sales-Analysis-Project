@@ -47,5 +47,4 @@ Dashboard Screenshot.png → Preview of the interactive dashboard
 This project demonstrates the use of Power BI for e-commerce analytics, showcasing how business users can track sales growth, analyze category performance, and measure product success in real time.
 
 📸 Dashboard Preview 
-Show what the dashboards looks like :- ![Alt text] (https://github.com/username/repo/assets/image.png) 
 Screenshot Link :- ![Dashboard Preview].(https://github.com/yashb079/Amazon-Products-Sales-Analysis-Project/blob/main/Dashboard%20Screenshot.png)
